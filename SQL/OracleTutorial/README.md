@@ -16,6 +16,12 @@ finally, MariaDB with MySQL WorkBench
 1. make connection between MySQL WorkBench and AWS RDS MariaDB
 ![캡처](https://user-images.githubusercontent.com/88543657/149664305-600923a4-e798-42de-a61d-c19449b4c2f4.PNG)
 
+Hostname is End point of AWS RDS instance
+
+Username is your ID you did config
+
+and i will requires Master password you did config
+
 =>
 
 ![캡처2](https://user-images.githubusercontent.com/88543657/149664343-dec08629-ff63-40db-86a7-299787ed391c.PNG)
