@@ -1,7 +1,6 @@
 # SQL
- '관계형 데이터베이스(RDB)'를 전제로 데이터를 관리하기 위한 프로그래밍 언어
+ '관계형 데이터베이스(RDBMS) like Oracle, MySQL, MariaDB, ...'를 전제로 데이터를 관리하기 위한 프로그래밍 언어
  반대로, noSQL이 존재
- *MySQL 기준
 
 # kinds of SQL
  Data Definition Language ; DDL
@@ -50,3 +49,6 @@ GRANT ALL PRIVILEGES ON testDB.myexampletable TO myuser@'%' IDENTIFIEDBY 'testPa
 GRANT ALL PRIVILEGES ON testDB.myexampletable TO myuse@192.168.0.100 IDENTIFIEDBY 'testPassword';
 
 출처: https://kkamikoon.tistory.com/171 [컴퓨터를 다루다]
+
+## SQL Practice
+[OracleTutorial](https://github.com/devsacti/Query-and-Extensions/tree/main/SQL/OracleTutorial)
