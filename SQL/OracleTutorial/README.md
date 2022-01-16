@@ -3,9 +3,7 @@
 
 Oracle has OracleDB, MySQL and developer of Oracle contributed in making MariaDB
 
-But, OracleDB is Expensive and not easy to config,
-
-and,I heard, MariaDB is better than MySQL
+But, OracleDB is Expensive and not easy to config, and,I heard, MariaDB is better than MySQL
 
 finally, MariaDB with MySQL WorkBench
 
