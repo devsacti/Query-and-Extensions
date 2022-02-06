@@ -1,17 +1,20 @@
 # Extensions of Query
 generally, when App access the data of DB
 
-Persistence Framework like JPA, mybatis is needed.
+Persistence Framework like jdbc, mybatis, JPA is needed.
+
+## JDBC
+Almost Done! wait please!
 
 ## SQL Mapper
-like mybatis
+ex) mybatis
 
-to be supplement..
+after jdbc done, to be supplement..
 
 ## ORM
-like JPA
+ex) JPA
 
-to be supplement...
+after jdbc mybatis, to be supplement...
 
 ## the related
 
